@@ -1,0 +1,5 @@
+name: CraftStrike
+main: io.github.jeremyhu.craftstrike.CraftStrike
+version: 1.0
+author: JeremyHu
+api-version: 1.16
